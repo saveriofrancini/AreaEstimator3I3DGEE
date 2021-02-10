@@ -1,0 +1,14 @@
+Package: AreaEstimator3I3DGEE
+Title: A forest disturbance area estimator using 3I3D-GEE outputs
+Version: 0.1.0
+Authors@R: person(given = "Saverio",
+           family = "Francini",
+           role = c("aut", "cre"),
+           email = "saverio.francini@gmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0001-6991-0289"))
+Maintainer: Saverio Francini <saverio.francini@unifi.it>
+Description: calculate forest disturbance area estimate using 3I3D-GEE outputs
+Depends: R (>= 3.1.0)
+License: MIT License
+LazyData: true
+RoxygenNote: 7.1.1
