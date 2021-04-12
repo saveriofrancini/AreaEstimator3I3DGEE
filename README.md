@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ![banner image](logo/graphical_abstract.bmp) 
+=======
+![banner image](logo/graphicalAbstract.bmp) 
+>>>>>>> 6b7599074afb6cdd38bd0df6bd1c0cac3f6a2529
 
 # AreaEstimator3I3DGEE
 
@@ -10,7 +14,11 @@
 
 ## Citation
 
+<<<<<<< HEAD
 > Saverio Francini*, Ronald E. McRoberts, Giovanni D’Amico, Nicholas C. Coops, Txomin Hermosilla, Joanne C. White, Michael A. Wulder, Marco Marchetti, Giuseppe Scarascia Mugnozza and Gherardo Chirici
+=======
+> Francini et al.
+>>>>>>> 6b7599074afb6cdd38bd0df6bd1c0cac3f6a2529
 
 <br><br>
 
@@ -33,3 +41,8 @@ If everything went fine, outputs are now in your working directory.
 Of course you can specify a different folder for outputs and use the package with your own 3I3D-GEE outputs.
 
 <br><br>
+<<<<<<< HEAD
+=======
+
+###### Thanks for stopping by and have a great day!
+>>>>>>> 6b7599074afb6cdd38bd0df6bd1c0cac3f6a2529
